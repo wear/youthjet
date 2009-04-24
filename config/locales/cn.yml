@@ -1,0 +1,12 @@
+# See http://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+cn:
+  home: "首页"
+  news: "新闻"
+  service: '服务'
+  contact: '联系我们'
+  about: '关于'
+  what: 介绍
+  name: 优杰
+  full_name: 上海优杰
+  tell: '给您提供专业服务'     

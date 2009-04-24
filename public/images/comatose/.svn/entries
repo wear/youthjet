@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2009-04-15T05:35:06.868800Z"
+   url="http://www.skung.com/svn/richard/public/images/comatose"
+   last-author="wear"
+   kind="dir"
+   uuid="45c6e575-61f9-487e-8aec-8e4d59048af9"
+   repos="http://www.skung.com/svn/richard"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="page.gif"
+   text-time="2009-04-15T05:23:20.000000Z"
+   committed-date="2009-04-15T05:35:06.868800Z"
+   checksum="824b579657e144f1bae323683d1c62c6"
+   last-author="wear"
+   kind="file"
+   prop-time="2009-04-15T05:23:20.000000Z"/>
+<entry
+   committed-rev="1"
+   name="spinner.gif"
+   text-time="2009-04-15T05:23:20.000000Z"
+   committed-date="2009-04-15T05:35:06.868800Z"
+   checksum="43cad40a9b800205878d466e9109090a"
+   last-author="wear"
+   kind="file"
+   prop-time="2009-04-15T05:23:20.000000Z"/>
+<entry
+   committed-rev="1"
+   name="no-children.gif"
+   text-time="2009-04-15T05:23:20.000000Z"
+   committed-date="2009-04-15T05:35:06.868800Z"
+   checksum="cff0a1050f38aa66ba8ae1883796777b"
+   last-author="wear"
+   kind="file"
+   prop-time="2009-04-15T05:23:20.000000Z"/>
+<entry
+   committed-rev="1"
+   name="collapsed.gif"
+   text-time="2009-04-15T05:23:20.000000Z"
+   committed-date="2009-04-15T05:35:06.868800Z"
+   checksum="81836741fc5e686d773b09a6681653f4"
+   last-author="wear"
+   kind="file"
+   prop-time="2009-04-15T05:23:20.000000Z"/>
+<entry
+   committed-rev="1"
+   name="expanded.gif"
+   text-time="2009-04-15T05:23:20.000000Z"
+   committed-date="2009-04-15T05:35:06.868800Z"
+   checksum="6e7c88567347c7a1e764ef198b2b329f"
+   last-author="wear"
+   kind="file"
+   prop-time="2009-04-15T05:23:20.000000Z"/>
+<entry
+   committed-rev="1"
+   name="title-hover-bg.gif"
+   text-time="2009-04-15T05:23:20.000000Z"
+   committed-date="2009-04-15T05:35:06.868800Z"
+   checksum="c7cc612f92cd0eda21bcbbdd8dc29eb3"
+   last-author="wear"
+   kind="file"
+   prop-time="2009-04-15T05:23:20.000000Z"/>
+</wc-entries>

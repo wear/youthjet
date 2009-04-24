@@ -1,0 +1,13 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See http://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  home: "Home"
+  news: "news"
+  service: 'service'
+  contact: 'contact'
+  about: 'about'
+  what: 'intro'
+  name: YOUTH-JET
+  full_name: YOUTH-JET
+  tell: "providing its customers with a professional, personal service for the shipments of freight worldwide"

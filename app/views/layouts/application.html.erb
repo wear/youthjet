@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SHANGHAI YOUTH-JET  FREIGHT CO.,LTD</title>
+<%= stylesheet_link_tag 'style.css' %>
+</head>
+
+<body>
+<div id="topbar">
+<div id="TopSection">
+<h1 id="sitename"><%=link_to t('full_name'),'/'%></h1> 
+<div id="topbarnav"> <span class="topnavitems"> <%=link_to '中文',root_cn_path%> | <%=link_to 'English', root_en_path %></span></div> 
+<div class="clear"></div>
+<ul id="topmenu">
+<li class="active"><a href="/"><%= t 'home' %></a></li>
+<li><%=link_to t('news'),news_path %></li>
+<li><%=link_to t('about'),about_path %></li> 
+<li><%=link_to t('service'),services_path %></li>
+<li><%=link_to t('contact'),contact_path %></li>
+</ul>
+</div>
+</div>
+
+<div id="wrap">  
+<%= yield :header_image %>
+<div id="contents">
+<div class="clear"></div> 
+ 
+	<%= yield %> 
+
+<div class="clear"></div>
+
+</div>
+
+</div>
+<div id="footer">
+<div id="footercontent">
+<div id="previews">
+<div class="item">
+  <a href="#"><img src="/images/bulk.gif" alt="Photo 1" /></a>
+  <span class="caption">BREAK BULK CARGO EXPORT</span>
+  </div>
+  <div class="item">
+  <a href="#"><img src="/images/air.gif" alt="Photo 1" /></a>  <span class="caption">AIR FREIGHT BIZ</span>
+</div>
+  <div class="item">
+  <a href="#"><img src="/images/bulk2.gif" alt="Photo 1" /></a>  <span class="caption">RO/RO IMPORT EXPORT BIZ</span>
+</div>
+  <div class="item">
+  <a href="#"><img src="/images/overland2.gif" alt="Photo 1" /></a>  <span class="caption">OVERLAND TRUCKING SERVICE</span>
+</div>
+  <div class="item">
+  <a href="#"><img src="/images/container.gif" alt="Photo 1" /></a>  <span class="caption">CONTAINERS</span>
+</div>
+  <div class="item">
+  <a href="#"><img src="/images/ship.gif" alt="Photo 1" /></a>  <span class="caption">SEA    FREIGHT  IMPORT  BIZ</span>
+</div>
+  <div class="item">
+  <a href="#"><img src="/images/map.gif" alt="Photo 1" /></a>  <span class="caption">Domestic Network</span>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyright">&copy; www.youthjet.com | <a href="#">Put </a>| <a href="#">Other</a> | <a href="#">Links</a> | <a href="#">Here</a> </div>
+</div>
+
+</div>
+<div id="credit">© 2007-2009 www.youthjet.com. All rights reserved</div>
+<!--Credits  should not be removied-->
+</body>
+</html>

@@ -1,0 +1,4422 @@
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:50:52) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: ):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:51:13) [GET]
+Rendering landing/index
+Completed in 59ms (View: 57, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:54:38) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 58ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:55:08) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.2ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:55:09) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:55:09) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:55:21) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.1ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:55:21) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:55:21) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:55:23) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 5ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:55:23) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:55:23) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:55:23) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:56:17) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.1ms)
+Completed in 19ms (View: 18, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:56:17) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:56:17) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:56:18) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:56:18) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.0ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:56:18) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:56:18) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:56:19) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:56:19) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.1ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:56:19) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:56:19) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:58:39) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.2ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:58:39) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:58:39) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:58:41) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.1ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:58:41) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:58:41) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:58:58) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (62.9ms)
+Completed in 90ms (View: 88, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:58:58) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:58:58) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:00) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 6ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:00) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.6ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:00) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:00) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:01) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:01) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.5ms)
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:01) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:02) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:02) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.1ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:02) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:02) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:04) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:04) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.7ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:04) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:04) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:05) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:05) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.6ms)
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:05) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:05) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:08) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:08) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:08) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:08) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:29) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.7ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:29) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:29) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:31) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:31) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:31) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:32) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:32) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.8ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:32) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:32) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:32) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.2ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:32) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:33) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:44) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 5ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:44) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.3ms)
+Completed in 87ms (View: 85, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:44) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:44) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:45) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:45) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.1ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:45) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:45) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 15:59:46) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 15:59:46) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (3.6ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:46) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 15:59:47) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:01:37) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 62ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 16:01:37) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 16:01:37) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:01:38) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:01:38) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 16:01:38) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 16:01:38) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:01:39) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:01:39) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 16:01:39) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 16:01:39) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:01:41) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:01:41) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 16:01:41) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 16:01:41) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:01:41) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:01:41) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 16:01:41) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/click_to_globalize.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 16:01:41) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/click_to_globalize.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:02:05) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.4ms)
+Completed in 24ms (View: 22, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:02:09) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:02:31) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (49.1ms)
+Completed in 58ms (View: 55, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:02:38) [PUT]
+  Parameters: {"authenticity_token"=>"61NM+HTk42NjZnzLM/AWiNT4c2JHFky2Tt2UanEWUdE=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 4ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:02:38) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:02:40) [PUT]
+  Parameters: {"authenticity_token"=>"61NM+HTk42NjZnzLM/AWiNT4c2JHFky2Tt2UanEWUdE=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:02:40) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:07:42) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:07:42) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:07:42) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:07:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:07:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:07:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (10.5ms)
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:07:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:07:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.0ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:08:27) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.3ms)
+Completed in 83ms (View: 81, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:08:32) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:08:32) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:08:40) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.1ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:08:42) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:08:42) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:08:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:08:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:08:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:08:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:08:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:08:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:08:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:08:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:08:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:08:44) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:12:05) [PUT]
+  Parameters: {"authenticity_token"=>"61NM+HTk42NjZnzLM/AWiNT4c2JHFky2Tt2UanEWUdE=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:12:05) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:12:06) [PUT]
+  Parameters: {"authenticity_token"=>"61NM+HTk42NjZnzLM/AWiNT4c2JHFky2Tt2UanEWUdE=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:12:06) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:13:44) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:13:47) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:13:51) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:13:52) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:13:52) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:07) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:07) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:09) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:09) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:11) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:11) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:12) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:12) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:12) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:12) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:12) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:12) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.6ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:13) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:13) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:13) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:13) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:14) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:14) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:14) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:14) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:23) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (No such file or directory - /Users/konglingliang/App/Stephen/youthjet/config/locales/cn.yml) on line #1 of app/views/landing/index.html.erb:
+1: <%= t(:'hello') %>
+
+    app/views/landing/index.html.erb:1
+
+Rendered rescues/_trace (53.1ms)
+Rendered rescues/_request_and_response (1.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:32) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.3ms)
+Completed in 24ms (View: 22, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:34) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 4ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:34) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:14:36) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:14:36) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:30:58) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:30:58) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:30:58) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:30:58) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.9ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:30:58) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:30:58) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:30:59) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:30:59) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:30:59) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:30:59) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:30:59) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:30:59) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:30:59) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:30:59) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.6ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:30:59) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:30:59) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:31:00) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:31:00) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:31:00) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:31:00) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:31:00) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:31:00) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:31:00) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:31:00) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.6ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:31:03) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:31:03) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:31:22) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:31:23) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:31:23) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:31:24) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:31:24) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:31:31) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 5ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:31:31) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.3ms)
+Completed in 81ms (View: 79, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:31:33) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:31:33) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:31) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:33) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:33) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.0ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:34) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:34) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:40) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.3ms)
+Completed in 24ms (View: 23, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:42) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 5ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:42) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:43) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:44) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:44) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:44) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:44) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:44) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:44) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:44) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:44) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (2.0ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:45) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:45) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.6ms)
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:33:45) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:33:45) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:35:38) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (No expansion found for :default) on line #7 of app/views/layouts/application.html.erb:
+4:   <head>
+5:     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+6: 	<title>youthjet</title> 
+7: 	<%= javascript_include_tag :default %>
+8: 	
+9: </head>
+10: <body>
+
+    app/views/layouts/application.html.erb:7
+
+Rendered rescues/_trace (48.7ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:35:59) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.8ms)
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:35:59) [GET]
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:36:01) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:36:01) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:36:01) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:36:02) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:36:02) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:36:02) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:36:04) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:36:04) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:36:04) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:36:19) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:36:19) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.2ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:36:19) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:30) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (55.7ms)
+Completed in 114ms (View: 112, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:30) [GET]
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:32) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 5ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:32) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.6ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:32) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:33) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:33) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:33) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:34) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:34) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.6ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:34) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:35) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:35) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:35) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:35) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:35) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:35) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:35) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:35) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:35) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:35) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:35) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:36) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:36) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:36) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:36) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:36) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:36) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:36) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:36) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:36) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:36) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:36) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:36) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:37) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:39) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:39) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:39) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:47) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:47) [GET]
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:49) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:49) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:49) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 16:59:50) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh-cn"}
+Redirected to http://localhost:3000/
+Completed in 64ms (DB: 0) | 302 Found [http://localhost/locales/zh-cn/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 16:59:50) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 16:59:50) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:02) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (56.5ms)
+Completed in 81ms (View: 79, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:02) [GET]
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:04) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 5ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:04) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:04) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:06) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:06) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:06) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:06) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:06) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:06) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:06) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:06) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.7ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:06) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:07) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:07) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:07) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:07) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:07) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.7ms)
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:07) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:07) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:07) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:08) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:08) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:08) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:08) [GET]
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:08) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:08) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:08) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:08) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:08) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:08) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:08) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:08) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:08) [GET]
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:02:08) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:02:08) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:02:09) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:06:24) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:06:24) [GET]
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:06:25) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:06:25) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:06:28) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:06:28) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:06:28) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:06:42) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:06:42) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:06:53) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:06:53) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:05) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:05) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:07:07) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:07) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.6ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:07) [GET]
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:07:09) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:09) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:09) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:07:09) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"zh"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/zh/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:09) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:09) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:07:10) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:10) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.5ms)
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:10) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:07:10) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:10) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:10) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:07:10) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:10) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:10) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:07:11) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:11) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.7ms)
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:11) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:07:14) [PUT]
+  Parameters: {"authenticity_token"=>"hIQ6ISwkpGHGu0JIXetp8KIE1WkOtpbkVC6SIwFRKTU=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:14) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:14) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:20) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:21) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:07:22) [PUT]
+  Parameters: {"authenticity_token"=>"61NM+HTk42NjZnzLM/AWiNT4c2JHFky2Tt2UanEWUdE=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 3ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:22) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.3ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:23) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LocalesController#change (for 127.0.0.1 at 2009-04-15 17:07:25) [PUT]
+  Parameters: {"authenticity_token"=>"61NM+HTk42NjZnzLM/AWiNT4c2JHFky2Tt2UanEWUdE=", "id"=>"en"}
+Redirected to http://localhost:3000/
+Completed in 0ms (DB: 0) | 302 Found [http://localhost/locales/en/change]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:07:25) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Rendered /Users/konglingliang/App/Stephen/youthjet/vendor/plugins/click-to-globalize/app/views/shared/_click_to_globalize (1.4ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing TranslationsController#index (for 127.0.0.1 at 2009-04-15 17:07:25) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/translations]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:38:23) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 61ms (View: 59, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-15 17:39:07) [GET]
+
+NoMethodError (undefined method `before_fiter' for LandingController:Class):
+  app/controllers/landing_controller.rb:2
+
+Rendered rescues/_trace (34.8ms)
+Rendered rescues/_request_and_response (1.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:39:15) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:39:43) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:39:49) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:39:56) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:40:50) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:47:28) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 21ms (View: 19, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:48:39) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `root_zh_path' for #<ActionView::Base:0x2298d4c>) on line #11 of app/views/layouts/application.html.erb:
+8: 	
+9: </head>
+10: <body> 
+11: 	<%=link_to '中文',root_zh_path%>
+12:    <%= yield %>
+13: </body>
+14: </html>    
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (41.6ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:49:06) [GET]
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `root_zh_zh_path' for #<ActionView::Base:0x2358c50>) on line #11 of app/views/layouts/application.html.erb:
+8: 	
+9: </head>
+10: <body> 
+11: 	<%=link_to '中文',root_zh_zh_path%>
+12:    <%= yield %>
+13: </body>
+14: </html>    
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (40.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:49:52) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `root_zh_zh_path' for #<ActionView::Base:0x22dbd04>) on line #11 of app/views/layouts/application.html.erb:
+8: 	
+9: </head>
+10: <body> 
+11: 	<%=link_to '中文',root_zh_zh_path%>
+12:    <%= yield %>
+13: </body>
+14: </html>    
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (42.4ms)
+Rendered rescues/_request_and_response (1.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:49:54) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `root_zh_zh_path' for #<ActionView::Base:0x239397c>) on line #11 of app/views/layouts/application.html.erb:
+8: 	
+9: </head>
+10: <body> 
+11: 	<%=link_to '中文',root_zh_zh_path%>
+12:    <%= yield %>
+13: </body>
+14: </html>    
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (41.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:49:54) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `root_zh_zh_path' for #<ActionView::Base:0x2422a8c>) on line #11 of app/views/layouts/application.html.erb:
+8: 	
+9: </head>
+10: <body> 
+11: 	<%=link_to '中文',root_zh_zh_path%>
+12:    <%= yield %>
+13: </body>
+14: </html>    
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (115.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:50:08) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `root_zh_zh_path' for #<ActionView::Base:0x22dbd68>) on line #11 of app/views/layouts/application.html.erb:
+8: 	
+9: </head>
+10: <body> 
+11: 	<%=link_to '中文',root_zh_zh_path%>
+12:    <%= yield %>
+13: </body>
+14: </html>    
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (41.7ms)
+Rendered rescues/_request_and_response (1.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:50:10) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `root_zh_zh_path' for #<ActionView::Base:0x2393a94>) on line #11 of app/views/layouts/application.html.erb:
+8: 	
+9: </head>
+10: <body> 
+11: 	<%=link_to '中文',root_zh_zh_path%>
+12:    <%= yield %>
+13: </body>
+14: </html>    
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (41.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:50:31) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:50:33) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+Translating routes (default locale: en)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:52:47) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `root_zh' for #<ActionView::Base:0x22dbda4>) on line #11 of app/views/layouts/application.html.erb:
+8: 	
+9: </head>
+10: <body> 
+11: 	<%=link_to '中文',root_zh %>
+12:    <%= yield %>
+13: </body>
+14: </html>    
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (43.0ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:52:48) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `root_zh' for #<ActionView::Base:0x239a524>) on line #11 of app/views/layouts/application.html.erb:
+8: 	
+9: </head>
+10: <body> 
+11: 	<%=link_to '中文',root_zh %>
+12:    <%= yield %>
+13: </body>
+14: </html>    
+
+    app/views/layouts/application.html.erb:11
+
+Rendered rescues/_trace (40.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:52:56) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:52:58) [GET]
+  Parameters: {"locale"=>"zh"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/zh]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:52:59) [GET]
+  Parameters: {"locale"=>"zh"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/zh]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:53:27) [GET]
+  Parameters: {"locale"=>"zh"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/zh]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:53:28) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:53:29) [GET]
+  Parameters: {"locale"=>"zh"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 68ms (View: 5, DB: 0) | 200 OK [http://localhost/zh]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:53:30) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:53:31) [GET]
+  Parameters: {"locale"=>"zh"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/zh]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:55:31) [GET]
+  Parameters: {"locale"=>"zh"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/zh]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:55:32) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:55:33) [GET]
+  Parameters: {"locale"=>"zh"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/zh]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:55:34) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:55:35) [GET]
+  Parameters: {"locale"=>"zh"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/zh]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:55:35) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:55:35) [GET]
+  Parameters: {"locale"=>"zh"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/zh]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:55:36) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 17:55:36) [GET]
+  Parameters: {"locale"=>"zh"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/zh]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:02:43) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+Translating routes (default locale: en)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:05:40) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 25ms (View: 23, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:06:02) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 66ms (View: 13, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:06:42) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:06:44) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:07:11) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:07:29) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:08:32) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:08:34) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:08:36) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:08:38) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:08:46) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:08:49) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:08:52) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:09:08) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-15 18:09:09) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/cn]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:00:45) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 118ms (View: 116, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:00:57) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:01:03) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:01:06) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:01:08) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:01:09) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:01:10) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:01:40) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:02:57) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:03:45) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/cn]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:06:14) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:07:22) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `service_path' for #<ActionView::Base:0x2448ca0>) on line #19 of app/views/layouts/application.html.erb:
+16: <li class="active"><a href="/"><%= t 'home' %></a></li>
+17: <li><%=link_to t('news'),news_path %></li>
+18: <li><%=link_to t('about'),about_path %></li> 
+19: <li><%=link_to t('service'),service_path %></li>
+20: <li><%=link_to t('contact'),contact_path %></li>
+21: </ul>
+22: </div>
+
+    app/views/layouts/application.html.erb:19
+
+Rendered rescues/_trace (101.0ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (internal_server_error)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:07:37) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `services_path' for #<ActionView::Base:0x23d992c>) on line #19 of app/views/layouts/application.html.erb:
+16: <li class="active"><a href="/"><%= t 'home' %></a></li>
+17: <li><%=link_to t('news'),news_path %></li>
+18: <li><%=link_to t('about'),about_path %></li> 
+19: <li><%=link_to t('service'),services_path %></li>
+20: <li><%=link_to t('contact'),contact_path %></li>
+21: </ul>
+22: </div>
+
+    app/views/layouts/application.html.erb:19
+
+Rendered rescues/_trace (105.3ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:07:45) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+
+ActionView::TemplateError (undefined local variable or method `contact_path' for #<ActionView::Base:0x24119a8>) on line #20 of app/views/layouts/application.html.erb:
+17: <li><%=link_to t('news'),news_path %></li>
+18: <li><%=link_to t('about'),about_path %></li> 
+19: <li><%=link_to t('service'),services_path %></li>
+20: <li><%=link_to t('contact'),contact_path %></li>
+21: </ul>
+22: </div>
+23: </div>
+
+    app/views/layouts/application.html.erb:20
+
+Rendered rescues/_trace (40.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:07:52) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:08:35) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:08:43) [GET]
+
+ActionController::RoutingError (No route matches "/cn/%E6%96%B0%E9%97%BB" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:09:12) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#news (for 127.0.0.1 at 2009-04-24 14:09:13) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/news
+Completed in 61ms (View: 59, DB: 0) | 200 OK [http://localhost/cn/new]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:09:13) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:09:13) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:09:13) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:09:13) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+Translating routes (default locale: en)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:09:39) [GET]
+
+ActionController::RoutingError (No route matches "/cn/new" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:09:41) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#news (for 127.0.0.1 at 2009-04-24 14:09:42) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/news
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/news_report]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:09:42) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:09:42) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:09:42) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:09:42) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+Translating routes (default locale: en)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:09:59) [GET]
+
+ActionController::RoutingError (No route matches "/cn/news_report" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:10:02) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#news (for 127.0.0.1 at 2009-04-24 14:10:03) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/news
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/nnews]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:03) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:03) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:03) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:03) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:10:11) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#news (for 127.0.0.1 at 2009-04-24 14:10:12) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/news
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/new]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:12) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:12) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:12) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:12) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:14) [GET]
+
+ActionController::RoutingError (No route matches "/cn/%E5%85%B3%E4%BA%8E" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:10:21) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:22) [GET]
+
+ActionController::RoutingError (No route matches "/cn/%E5%85%B3%E4%BA%8E" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+Translating routes (default locale: en)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:36) [GET]
+
+ActionController::RoutingError (No route matches "/cn/%E5%85%B3%E4%BA%8E" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:10:37) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 14:10:38) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 33ms (View: 31, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:38) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:38) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:38) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:38) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:10:41) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:41) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:41) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:41) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:41) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:45) [GET]
+
+ActionController::RoutingError (No route matches "/cn/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+Translating routes (default locale: en)
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:10:55) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:55) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:55) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:55) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:55) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-04-24 14:10:56) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Completed in 237ms (View: 235, DB: 0) | 200 OK [http://localhost/cn/contact_us]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:56) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:56) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:56) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:56) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:10:57) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:57) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:57) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:57) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:57) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 14:10:57) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:57) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:57) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:57) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:57) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#news (for 127.0.0.1 at 2009-04-24 14:10:58) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/news
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/new]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:58) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:58) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:58) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:58) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 14:10:58) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:58) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/1.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:58) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/2.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:58) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/3.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:10:58) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/4.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:11:19) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:14:41) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:19:21) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:19:40) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:19:57) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:20:24) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:20:31) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:20:58) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:22:57) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:23:22) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:23:57) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:24:41) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:25:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:25:23) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:25:36) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:35:03) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:37:56) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:39:20) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:40:25) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 67ms (View: 65, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:41:17) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:42:16) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:42:54) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:43:24) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:43:53) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:44:02) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:44:20) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 14:45:09) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 14:45:31) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:45:31) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/bulk.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:45:31) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/ship.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:45:31) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/air.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:45:31) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/bulk2.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:45:31) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/sea.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:45:31) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/map.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 14:45:31) [GET]
+
+ActionController::RoutingError (No route matches "/cn/images/overland2.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 14:45:58) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#news (for 127.0.0.1 at 2009-04-24 14:46:02) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/news
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/new]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 14:46:03) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:46:03) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-04-24 14:46:04) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/contact_us]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:46:04) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 14:46:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 14:46:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:46:06) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:46:32) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:46:58) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:47:25) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:47:40) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:47:49) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:48:12) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 59ms (View: 57, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:48:56) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:49:17) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:49:50) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:50:27) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:51:01) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:51:44) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:51:55) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 58ms (View: 57, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:52:29) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:54:03) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:54:11) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:55:01) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:55:35) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:56:18) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:56:41) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:56:58) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:57:39) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:57:47) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 59ms (View: 57, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:58:04) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:58:27) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 14:59:09) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:00:25) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:00:50) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:01:12) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:01:28) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:02:53) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:03:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:03:43) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:04:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-24 15:04:05) [GET]
+
+ActionController::RoutingError (No route matches "/images/bilk2.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:04:15) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:04:53) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 63ms (View: 61, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:05:06) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:05:21) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:05:46) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:06:17) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 59ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:06:28) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:06:52) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:07:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:07:46) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:08:00) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:08:22) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:09:26) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:10:07) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:10:28) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:11:15) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:11:27) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 61ms (View: 59, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:12:31) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:13:47) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:14:40) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-04-24 15:14:55) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/contact_us]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 15:14:56) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 15:14:57) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#news (for 127.0.0.1 at 2009-04-24 15:14:58) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/news
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/new]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:14:59) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:15:00) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:15:09) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:15:11) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:15:12) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
