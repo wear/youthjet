@@ -4420,3 +4420,1030 @@ Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:15:12) [GET]
 Rendering template within layouts/application
 Rendering landing/index
 Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:46:35) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 164ms (View: 161, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:47:34) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:48:19) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:48:34) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:50:57) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:54:04) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:55:13) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:55:25) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 60ms (View: 58, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:55:44) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:55:57) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:56:04) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:57:25) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:58:03) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:58:58) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:59:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 15:59:40) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:00:10) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:00:14) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:00:16) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 57ms (View: 55, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:00:42) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:01:07) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:01:11) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:01:59) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:02:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:02:46) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:05:30) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:05:38) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:06:36) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:06:46) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:06:48) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:06:48) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:07:02) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:16:58) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:16:59) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:17:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:17:29) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 60ms (View: 58, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:17:31) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:17:46) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:18:00) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+ERROR: compiling _run_erb_app47views47landing47index46html46erb RAISED compile error
+/Users/konglingliang/App/Stephen/youthjet/app/views/landing/index.html.erb:14: syntax error, unexpected tSTRING_BEG, expecting ')'
+@output_buffer.concat "    <li><h2>"; @output_buffer.concat((t)'services').to_s); @output_buffer.concat "</h2></li>\n"
+                                                                ^
+/Users/konglingliang/App/Stephen/youthjet/app/views/landing/index.html.erb:14: syntax error, unexpected ')', expecting kEND
+@output_buffer.concat "    <li><h2>"; @output_buffer.concat((t)'services').to_s); @output_buffer.concat "</h2></li>\n"
+                                                                          ^
+Function body:           def _run_erb_app47views47landing47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ;  content_for :header_image do ; @output_buffer.concat "\n"
+@output_buffer.concat "<div id=\"header\">\n"
+@output_buffer.concat "<h2 class=\"introtext\">\n"
+@output_buffer.concat "<span class=\"highlight2\">"; @output_buffer.concat((t('name')).to_s); @output_buffer.concat " </span> "; @output_buffer.concat((t('tell')).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "</h2>\n"
+@output_buffer.concat "</div>\n"
+ end ; @output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<div id=\"homecontents\"> \n"
+@output_buffer.concat "<h2><a href=\"#\">"; @output_buffer.concat(( t('Profile')).to_s); @output_buffer.concat "</a></h2>  \n"
+@output_buffer.concat "<p>"; @output_buffer.concat(( t 'what_text').to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  <ul>\n"
+@output_buffer.concat "    <li><h2>"; @output_buffer.concat((t)'services').to_s); @output_buffer.concat "</h2></li>\n"
+@output_buffer.concat "    <li>\n"
+@output_buffer.concat "    \t<ul id=\"categories\">\n"
+@output_buffer.concat "        \t<li><a href=\"#\">Web Design</a></li>\n"
+@output_buffer.concat "            <li><a href=\"#\">Graphic design</a></li>\n"
+@output_buffer.concat "            <li><a href=\"#\">Tutorials</a></li>\n"
+@output_buffer.concat "            <li><a href=\"#\">Tips &amp; Tricks</a></li>\n"
+@output_buffer.concat "            <li><a href=\"#\">Gadgets</a></li>\n"
+@output_buffer.concat "            <li><a href=\"#\">3D Animation</a></li>\n"
+@output_buffer.concat "        </ul>\n"
+@output_buffer.concat "    </li>\n"
+@output_buffer.concat "</ul>\n"
+@output_buffer.concat "</p>\n"
+@output_buffer.concat "</div>"; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/konglingliang/App/Stephen/youthjet/app/views/landing/index.html.erb:30:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:343:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:257:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1329:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/handler/mongrel.rb:61:in `process'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.4/lib/mongrel.rb:159:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.4/lib/mongrel.rb:158:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.4/lib/mongrel.rb:158:in `process_client'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.4/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.4/lib/mongrel.rb:285:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.4/lib/mongrel.rb:285:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.4/lib/mongrel.rb:285:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.4/lib/mongrel.rb:268:in `initialize'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.4/lib/mongrel.rb:268:in `new'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.4/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/konglingliang/App/Stephen/youthjet/app/views/landing/index.html.erb:14: syntax error, unexpected tSTRING_BEG, expecting ')'
+@output_buffer.concat "    <li><h2>"; @output_buffer.concat((t)'services').to_s); @output_buffer.concat "</h2></li>\n"
+                                                                ^
+/Users/konglingliang/App/Stephen/youthjet/app/views/landing/index.html.erb:14: syntax error, unexpected ')', expecting kEND
+@output_buffer.concat "    <li><h2>"; @output_buffer.concat((t)'services').to_s); @output_buffer.concat "</h2></li>\n"
+                                                                          ^) on line #14 of app/views/landing/index.html.erb:
+11: <h2><a href="#"><%= t('Profile')%></a></h2>  
+12: <p><%= t 'what_text'%>
+13:   <ul>
+14:     <li><h2><%=t)'services'%></h2></li>
+15:     <li>
+16:     	<ul id="categories">
+17:         	<li><a href="#">Web Design</a></li>
+
+    app/views/landing/index.html.erb:30:in `compile!'
+
+Rendered rescues/_trace (41.3ms)
+Rendered rescues/_request_and_response (1.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:18:07) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:18:12) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:18:58) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:19:01) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:19:05) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:19:07) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:19:50) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:20:39) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 64ms (View: 62, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:21:22) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:22:17) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:22:41) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:23:21) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:23:43) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:23:48) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:24:00) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 59ms (View: 57, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:26:08) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:09) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:19) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:30) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:32) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:32) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:39) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:40) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:41) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:42) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:49) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 63ms (View: 61, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:26:53) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#news (for 127.0.0.1 at 2009-04-24 16:27:06) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/news
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/new]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:27:08) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:27:09) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-04-24 16:27:09) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/contact_us]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:27:10) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:27:15) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#news (for 127.0.0.1 at 2009-04-24 16:27:16) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/news
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/new]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:27:17) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#news (for 127.0.0.1 at 2009-04-24 16:27:18) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/news
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/new]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:27:19) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/intro]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:27:20) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:27:21) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/intro]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:27:22) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:27:48) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:27:56) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:28:10) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:28:13) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-04-24 16:28:14) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn/contact_us]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:28:16) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:28:21) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:28:22) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:28:41) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:29:09) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:29:24) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:30:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:30:43) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:30:55) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:30:57) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:31:01) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/intro]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:31:03) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:31:03) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/intro]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:31:05) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:31:06) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:31:07) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:31:27) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:31:33) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/cn/intro]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:31:34) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:31:54) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+
+ActionView::TemplateError (undefined local variable or method `services' for #<ActionView::Base:0x229951c>) on line #2 of app/views/landing/services.html.erb:
+1: <div id="left">
+2: <h2><a href="#"><%=services%></a></h2>
+3: <h3>AIR FREIGHT BIZ</h3>
+4: <p>
+5: <img src="/images/air.gif" align='left' /> <b>AIR FREIGHT IMPORT BIZ</b><br />  The Competitive Air-rates From Overseas Main Airports 
+
+    app/views/landing/services.html.erb:2
+
+Rendered rescues/_trace (41.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:32:00) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:32:04) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 69ms (View: 67, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:32:25) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:33:19) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:35:57) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:36:31) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:36:43) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-04-24 16:36:45) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:36:45) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:36:47) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/intro]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:36:48) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#about (for 127.0.0.1 at 2009-04-24 16:36:49) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/about
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/intro]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:36:49) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-04-24 16:36:50) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/contact_us]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:36:51) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:36:52) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:36:54) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:37:19) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:37:26) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:40:04) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 67ms (View: 65, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-24 16:40:06) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-04-24 16:40:08) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/services
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/services]

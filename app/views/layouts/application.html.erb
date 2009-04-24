@@ -14,7 +14,6 @@
 <div class="clear"></div>
 <ul id="topmenu">
 <li class="active"><a href="/"><%= t 'home' %></a></li>
-<li><%=link_to t('news'),news_path %></li>
 <li><%=link_to t('about'),about_path %></li> 
 <li><%=link_to t('service'),services_path %></li>
 <li><%=link_to t('contact'),contact_path %></li>
@@ -39,25 +38,25 @@
 <div id="previews">
 <div class="item">
   <a href="#"><img src="/images/bulk.gif" alt="Photo 1" /></a>
-  <span class="caption">BREAK BULK CARGO EXPORT</span>
+  <span class="caption"><%=t('s_4')%></span>
   </div>
   <div class="item">
-  <a href="#"><img src="/images/air.gif" alt="Photo 1" /></a>  <span class="caption">AIR FREIGHT BIZ</span>
+  <a href="#"><img src="/images/air.gif" alt="Photo 1" /></a>  <span class="caption"><%= t('s_1')%></span>
 </div>
   <div class="item">
-  <a href="#"><img src="/images/bulk2.gif" alt="Photo 1" /></a>  <span class="caption">RO/RO IMPORT EXPORT BIZ</span>
+  <a href="#"><img src="/images/bulk2.gif" alt="Photo 1" /></a>  <span class="caption"><%= t('s_5')%></span>
 </div>
   <div class="item">
-  <a href="#"><img src="/images/overland2.gif" alt="Photo 1" /></a>  <span class="caption">OVERLAND TRUCKING SERVICE</span>
+  <a href="#"><img src="/images/overland2.gif" alt="Photo 1" /></a>  <span class="caption"><%= t('s_7')%></span>
 </div>
   <div class="item">
-  <a href="#"><img src="/images/container.gif" alt="Photo 1" /></a>  <span class="caption">CONTAINERS</span>
+  <a href="#"><img src="/images/container.gif" alt="Photo 1" /></a>  <span class="caption"><%=t('s_2')%></span>
 </div>
   <div class="item">
-  <a href="#"><img src="/images/ship.gif" alt="Photo 1" /></a>  <span class="caption">SEA    FREIGHT  IMPORT  BIZ</span>
+  <a href="#"><img src="/images/ship.gif" alt="Photo 1" /></a>  <span class="caption"><%=t('s_3')%></span>
 </div>
   <div class="item">
-  <a href="#"><img src="/images/map.gif" alt="Photo 1" /></a>  <span class="caption">Domestic Network</span>
+  <a href="#"><img src="/images/map.gif" alt="Photo 1" /></a>  <span class="caption"><%=t('s_8')%></span>
 </div>
 <div class="clear"></div>
 </div>

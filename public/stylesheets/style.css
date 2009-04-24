@@ -110,7 +110,7 @@ blockquote p {font-size:12px; }
 #highlights li {display:block; padding:3px; background: none; border-bottom:solid 1px #fff;}
 #highlights li:hover {display:block; padding:3px; border-bottom:solid 1px #fff; background:#FFFFFF; }
 
-#homecontents {float:left; width:530px; padding:3px 3px 3px 20px; margin:5px 5px 5px 0px;  background:url(/images/sidebarbg1.jpg) repeat-y left;}
+#homecontents {float:left; width:100%; padding:3px 3px 3px 20px; margin:5px 5px 5px 0px;  background:url(/images/sidebarbg1.jpg) repeat-y left;}
 #homecontents p, left p, right p {margin:10px 0px 10px 0px;}
 #homecontents h2 {display:block; color:#8d6932; border-bottom:solid 1px #E1D2A6; font-size:22px;}
 #homecontents h2 a{text-decoration:none; color:#8d6932;}
