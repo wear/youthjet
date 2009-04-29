@@ -9,13 +9,16 @@
 <body>
 <div id="topbar">
 <div id="TopSection">
-<h1 id="sitename"><%=link_to t('full_name'),'/'%></h1> 
+<h1 id="sitename"><%=link_to t('full_name'),root_path%></h1> 
 <div id="topbarnav"> <span class="topnavitems"> <%=link_to '中文',root_cn_path%> | <%=link_to 'English', root_en_path %></span></div> 
 <div class="clear"></div>
 <ul id="topmenu">
-<li class="active"><a href="/"><%= t 'home' %></a></li>
+<li class="active"><%=link_to t('home'),root_path %></a></li>
 <li><%=link_to t('about'),about_path %></li> 
 <li><%=link_to t('service'),services_path %></li>
+<li><%=link_to t('consulting'),consulting_path %></li>
+<li><%=link_to t('network'),network_path %></li>
+<li><%=link_to t('partner'),partner_path %></li>
 <li><%=link_to t('contact'),contact_path %></li>
 </ul>
 </div>
@@ -60,8 +63,7 @@
 </div>
 <div class="clear"></div>
 </div>
-<div id="copyright">&copy; www.youthjet.com | <a href="#">Put </a>| <a href="#">Other</a> | <a href="#">Links</a> | <a href="#">Here</a> </div>
-</div>
+
 
 </div>
 <div id="credit">© 2007-2009 www.youthjet.com. All rights reserved</div>

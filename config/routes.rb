@@ -5,6 +5,9 @@ ActionController::Routing::Routes.draw do |map|
     home.services 'services', :action => 'services'
     home.about 'intro',:action => 'about'
     home.contact 'contact_us',:action => 'contact'
+    home.consulting "consulting-biz",:action => "consulting"
+    home.partner "partner-intro",:action => 'partner'
+    home.network "network-intro",:action => 'network'
   end
   # The priority is based upon order of creation: first created -> highest priority.
 

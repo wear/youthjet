@@ -4,23 +4,92 @@
 en:
   home: "Home"
   news: "news"
-  service: 'service'
-  contact: 'contact'
-  about: 'about'
-  what: 'intro'
+  service: 'Service'
+  contact: 'Contact'
+  about: 'About'
+  what: 'Intro'
   name: YOUTH-JET
   full_name: YOUTH-JET 
-  Profile: Profile
+  Profile: Profile  
+  contact_us: Contact Us 
+  partner: Partners
+  consulting: Consulting
+  network: Network 
+  links: Useful Links
+  maps: maps       
+  currency: Currency Converter
+  timezone: Time Zone
+  postcode: Postal codes
+  bank_holiday: Bank holidays of the World
+  iata: IATA
+  ports: Ports in the world
+  network_inter: GLOBAL NETWORK      
+  network_nation: DEMESTIC NETWORK
   tell: "providing its customers with a professional, personal service for the shipments of freight worldwide"
   about_text: "<p>YOUTH-JET FREIGHT CO.,LTD is an A-Class freight forwarding and logistics company in the China ,registered capital USD 880,000.00, providing its customers with a professional, personal service for the shipments of freight worldwide.</p>
        <p>Supported by our extremely strong partnership network with global alliance and  well-trained professional staffs, Youth-Jet Freight provides all of modes of transport, including services of Break bulk ,Ro/Ro, Air freight import& export ,FCL/FCL,LCL/LCL ,Transshipment ,Customs clearance, and Logistics supply-chain consulting etc. to clients quickly, effectively, and economically. Providing trouble-free services with fair price to our customers and assisting our customers in producing high quality and low cost so that they can become more competitive and stronger. Furthermore, we regard and promote environmental protection as an important part of our social responsibility."
   Profile: Profile 
-  s_1: AIR FREIGHT BIZ
-  s_2:  CONTAINERS EXPORT BIZ
-  s_3: SEA FREIGHT IMPORT  BIZ
-  s_4: BREAK BULK CARGO EXPORT
-  s_5: RO/RO IMPORT&EXPORT BIZ
-  s_6: WGQ FREE TRADE ZONE
-  s_7: OVERLAND TRUCKING SERVICE
+  s_1: AIR FREIGHT
+  s_1_text: 'Customers are only using airfreight when time is essential. At YOUTH-JET we will always offer you the best economical solution in accordance with the exact need of transport. Effective operations are very important for us, why our qualified employees are located at key positions in Pudong airport (PVG) . Our Speed and reliable handling will make you as customer or partner confident and consequently solely concentrate on your own core business. '
+  s_1_import: IMPORT AIR-FREIGHT
+  s_1_import_text: 'The Competitive Air-rates From Global Main Airports<br />Picking Handling Service<br />Customs Clearance Services  
+  <br />Bonded Warehouse Storage Service  
+  <br />Warehousing & Distribution Service
+  <br />Door/Door Delivery Service (Ex-work)'
+  s_1_export: EXPORT AIR-FREIGHT 
+  s_1_export_text: 'The Advantaged Traffics From PVG-airports Of N.America, Europe, S.East Asia, Mid-east
+ <br />Customs Clearance Services  
+  <br />Bonded Warehouse Storage Service  
+  <br />Trucking Service
+  <br />Door/Door Delivery Service (DDU,DDP)'
+  s_2: EXPORT CONTAINER SERVICE
+  s_2_text: 'Bonded Warehouse  Storage<br />Warehousing<br />Open Top/Flat Racks Containers<br />Refrigerated Containers'
+  s_3:  IMPORT CONTAINER SERVICE 
+  s_3_text: 'Special Bonded Warehouse storage<br />Distribution,
+ <br />LCL/LCL,FCL/ FCL
+  <br />Door-door Service,
+<br />Transport Insurance,
+<br />Customs Clearance Service,
+<br />Open Top/FlatRacks/Refrigerated Containers,
+<br />Import Deconsolidation Services
+<br />Tracking And Tracing'
+  s_4: BREAK BULK CARGO AND RORO SHIPMENTS 
+  s_4_text: 'BREAK BULK CARGO<br />Export To Mid- east ,Africa,s.East Asia (Large-sized Equipment, Steel,Stock Tanks)'
+  s_5: "RO/RO  BIZ   "
+  s_5_text: "Export To Mid-east,africa,europe Import From Europe (Various Vehicles: bus ,Heavy Trucks Cars, Engineering Vehicles) "
+  s_6: WAIGAOQIAO FREE ZONE
+  s_6_text: "Customs Declaration<br />Distribution<br />Computerised stock control<br />Warehousing Service VMI"
+  s_7: OVERLAND TRUCKING SERVICE             
+  s_7_text: "Domestic Overland Services,Part And Full Truck Loads<br />Eastern China Trucking Services;
+  <br />Storage Warehousing Distribution;
+  <br />Customs Clearance Services;
+  <br />Nationwide Transport Insurance Services"
+  
   s_8: Domestic Network
-  mission: mission
+  s_sea: SEA FREIGHT
+  s_sea_text: "YOUTH-JET has negotiated service contracts with major carriers. These agreements allow us to offer competitive prices and sufficient availability of freight capacity to the customers. YOUTH-JET will always offer a range of solutions. We take care of the transport chain from the place of origin to the final destination."
+  mission: mission 
+  s_9: Consulting & Planning
+  s_9_text: "<p>The starting point for YOUTH-JET Project Logistics Management Solution is always the same.</p><h3>Analysis phase</h3> 
+  <p>Firstly, our consulting team will analyse your existing logistics processes including the flow of material, stock levels and information management systems.<p> 
+  <h3>Project Planning phase </h3><p>Next, we assign a project management team to work closely with your management and employees to gain a detailed knowledge of your needs prior to preparing our initial proposals. </p>
+  <h3>Implementation phase</h3> 
+  <p>Finally, once our proposals and plans have been approved, we move to the implementation phase. It is at this point that our logistics and information resources and systems are brought into play to deliver the innovative solutions that will optimise your supply chain and reduce your logistics costs.</p>" 
+  contact_info:  "<h4>SHANGHAI </h4><p>
+  TEL:86-21-58219718 EXT<br />
+  DIRECT LINE :86-21-50282054 <br /> 
+  FAX:86-21-58219728<br />
+  E-MAIL:richardwu#youthjet.com<br />
+  ADD:Room1109-1110, Block.A.No.18 Taolin Road,  World Center, Pudong New Area, Shanghai P.R.C<br />                                                              
+  ZIP CODE:200135 CHINA   
+  </P>  
+  
+  <h4>  Shenzhen office</h4>
+  <p> Address: Room 4028,Pacific Commerce Tower, Shenzhen municipal Guangdong，P.R.China. </P>
+  <h4>Wenzhou office</h4>
+  <p> Address: Room 1105,Institute tower, station ave.Wenzhou, Zhejiang,P.R.China </P>
+  <p>
+  <h4>Ningbo office</h4> 
+  <p>Address: Room 404,Changtang AVE, Ningbo, Zhejiang, P.R.China </P>
+  <h4> Nanjing office</h4>
+  <p>Address: Room 2818,Oriental stock,Shigu Road,Nanjing,Jiangsu, P.R.China</P>"
