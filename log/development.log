@@ -7341,3 +7341,738 @@ Rendering template within layouts/application
 Rendering landing/network
 Rendered landing/_links (1.0ms)
 Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/network-intro]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-04-29 17:03:03) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/contact_us]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-29 17:04:21) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-04-29 17:04:22) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/contact_us]
+Translating routes (default locale: en)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-30 16:20:18) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 108ms (View: 106, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-04-30 16:20:34) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:33:24) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (24.3ms)
+Completed in 41ms (View: 39, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:35:58) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:36:11) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.9ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:36:20) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:36:36) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:36:51) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.9ms)
+Completed in 67ms (View: 64, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:37:36) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:37:48) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:37:56) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:39:03) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.9ms)
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:39:52) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:41:57) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.9ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:42:27) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.9ms)
+Completed in 76ms (View: 74, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:42:48) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:43:15) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:43:35) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:45:08) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:45:36) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-04-30 16:46:04) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (1.1ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/network-intro]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-06 14:55:00) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 120ms (View: 118, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 14:55:04) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (12.9ms)
+Completed in 54ms (View: 52, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 14:55:57) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (2.1ms)
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 14:56:06) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:01:24) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:02:03) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:02:05) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:02:38) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-06 15:03:06) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 63ms (View: 61, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:03:08) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:04:08) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.1ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-06 15:04:16) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:04:21) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:05:19) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:05:21) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:05:22) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:05:31) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.1ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:05:45) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:05:55) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:06:50) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:06:56) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:07:33) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (2.0ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:07:40) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.9ms)
+Completed in 28ms (View: 25, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-05-06 15:07:41) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (1.0ms)
+Completed in 33ms (View: 32, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#consulting (for 127.0.0.1 at 2009-05-06 15:07:47) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/consulting
+Rendered landing/_links (1.2ms)
+Completed in 46ms (View: 44, DB: 0) | 200 OK [http://localhost/consulting-biz]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-05-06 15:07:48) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/services
+Rendered landing/_links (0.8ms)
+Completed in 68ms (View: 66, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing LandingController#consulting (for 127.0.0.1 at 2009-05-06 15:07:48) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/consulting
+Rendered landing/_links (0.8ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/consulting-biz]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-05-06 15:07:49) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:07:50) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (1.0ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:09:23) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (1.0ms)
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-06 15:09:23) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg/mob.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:09:30) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-05-06 15:09:30) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg/mob.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:10:00) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:10:33) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:11:53) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:12:22) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:12:50) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:13:40) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.9ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:14:10) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.9ms)
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:14:44) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:16:01) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-05-06 15:16:10) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/services
+Rendered landing/_links (0.8ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing LandingController#consulting (for 127.0.0.1 at 2009-05-06 15:16:11) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/consulting
+Rendered landing/_links (0.8ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/consulting-biz]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-05-06 15:16:11) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.9ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:16:12) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:16:12) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-06 15:16:13) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-06 15:16:14) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:17:08) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 75ms (View: 73, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#consulting (for 127.0.0.1 at 2009-05-06 15:17:10) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/consulting
+Rendered landing/_links (0.8ms)
+Completed in 71ms (View: 69, DB: 0) | 200 OK [http://localhost/consulting-biz]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-05-06 15:17:11) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/services
+Rendered landing/_links (0.9ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-06 15:17:12) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-06 15:32:05) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-06 15:34:16) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-05-06 15:35:33) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/services
+Rendered landing/_links (0.8ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/services]
+
+
+Processing LandingController#consulting (for 127.0.0.1 at 2009-05-06 15:35:34) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/consulting
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/consulting-biz]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-05-06 15:35:35) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:35:35) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:35:36) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:35:36) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-05-06 15:35:37) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:35:38) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2009-05-06 15:35:38) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.1ms)
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:35:39) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-05-06 15:35:40) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.9ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/network-intro]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-06 15:35:53) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2009-05-06 15:35:54) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/partner-intro]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2009-05-06 15:35:56) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/network-intro]

@@ -134,3 +134,8 @@ blockquote p {font-size:12px; }
 .item img{
 	width:100px;
 }
+
+#contact_area{  
+   background: url(/images/contact.gif) right top;
+   background-repeat: no-repeat 
+}
