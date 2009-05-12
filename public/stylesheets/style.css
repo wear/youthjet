@@ -24,9 +24,9 @@ a:visited,active {color:#666666;}
 .searchform .keywordfield {border:solid 1px #333333; background:#F8F2DA; padding:3px;}
 #topbarnav .topnavitems {float:right; display:block;}
 #wrap #header { background:url(/images/header.jpg) no-repeat; height:229px; margin-top:10px;}
-#header .introtext {display:block; padding:60px 300px 25px 125px; text-align:right; font-weight:normal; color:#FFFFFF; font-size:25px;}
+#header .introtext {display:block; padding:60px 300px 25px 105px; text-align:right; font-weight:bold; color:#FFFFFF; font-size:24px;}
 .highlight {background:#FFFFFF; color:#0099CC;}
-.highlight2 {color:#FFFF99; font-size:28px; font-style:italic;}
+.highlight2 {color:#FFFF99; font-size:38px; font-style:italic;}
 
 #headershort {background: url(/images/headershort.jpg) no-repeat; height:119px;}
 #headershort .subheader {font-size:48px; color:#F1E8CB; font-family:Georgia, "Times New Roman", Times, serif; font-weight:normal; display:block; padding:55px 55px 0px 20px; }

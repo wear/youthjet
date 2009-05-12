@@ -1,7 +1,9 @@
 # Sample localization file for English. Add more files in this directory for other locales.
 # See http://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
-en:
+en:  
+  sea: Sea
+  air: Air
   home: "Home"
   news: "news"
   service: 'Service'
@@ -21,7 +23,10 @@ en:
   timezone: Time Zone
   postcode: Postal codes
   bank_holiday: Bank holidays of the World
-  iata: IATA
+  iata: IATA 
+  t_1_import: IMPORT AIR-FREIGHT
+  s_1_import_text: "The Competitive Air-rates From Global Main Airports Picking Handling Service Customs Clearance Services  Bonded Warehouse Storage Service  Warehousing & Distribution Service  Door/Door Delivery Service (Ex-work)"
+  t_1_export: EXPORT AIR-FREIGHT 
   ports: Ports in the world
   network_inter: GLOBAL NETWORK      
   network_nation: DEMESTIC NETWORK
@@ -53,9 +58,9 @@ en:
 <br />Open Top/FlatRacks/Refrigerated Containers,
 <br />Import Deconsolidation Services
 <br />Tracking And Tracing'
-  s_4: BREAK BULK CARGO AND RORO SHIPMENTS 
+  s_4: BREAK BULK CARGO 
   s_4_text: 'BREAK BULK CARGO<br />Export To Mid- east ,Africa,s.East Asia (Large-sized Equipment, Steel,Stock Tanks)'
-  s_5: "RO/RO  BIZ   "
+  s_5: "RO/RO BIZ"
   s_5_text: "Export To Mid-east,africa,europe Import From Europe (Various Vehicles: bus ,Heavy Trucks Cars, Engineering Vehicles) "
   s_6: WAIGAOQIAO FREE ZONE
   s_6_text: "Customs Declaration<br />Distribution<br />Computerised stock control<br />Warehousing Service VMI"
