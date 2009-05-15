@@ -9170,3 +9170,42 @@ Rendering template within layouts/application
 Rendering landing/contact
 Rendered landing/_links (0.8ms)
 Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/contacts]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-15 15:00:52) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 111ms (View: 108, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2009-05-15 15:00:56) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-05-15 15:00:59) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Rendered landing/_links (11.7ms)
+Completed in 43ms (View: 41, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-05-15 15:01:31) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Rendered landing/_links (0.8ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+
+
+Processing LandingController#services (for 127.0.0.1 at 2009-05-15 15:01:43) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/services
+Rendered landing/_links (0.8ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
