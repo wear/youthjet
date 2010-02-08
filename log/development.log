@@ -9209,3 +9209,462 @@ Rendering template within layouts/application
 Rendering landing/services
 Rendered landing/_links (0.8ms)
 Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn/services]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-05 10:46:12) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 99ms (View: 97, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2010-01-05 10:46:16) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (10.2ms)
+Completed in 51ms (View: 49, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2010-01-05 10:46:20) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 39ms (View: 37, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#consulting (for 127.0.0.1 at 2010-01-05 10:46:28) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/consulting
+Rendered landing/_links (0.8ms)
+Completed in 26ms (View: 24, DB: 0) | 200 OK [http://localhost/consulting-biz]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2010-01-05 10:46:29) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.8ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/partner-intro]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2010-01-05 10:46:30) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (1.0ms)
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/contacts]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-05 10:46:31) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2010-01-05 10:46:33) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (0.8ms)
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/cn/contacts]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-05 10:46:53) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 72ms (View: 70, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-01-05 11:01:09) [GET]
+
+ActionController::RoutingError (No route matches "/posts.rss" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-13 17:15:27) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 216ms (View: 214, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-13 17:15:30) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2010-01-13 17:15:31) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (9.8ms)
+Completed in 47ms (View: 44, DB: 0) | 200 OK [http://localhost/cn/contacts]
+
+
+Processing LandingController#consulting (for 127.0.0.1 at 2010-01-13 17:37:25) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/consulting
+Rendered landing/_links (0.8ms)
+Completed in 33ms (View: 31, DB: 0) | 200 OK [http://localhost/cn/consulting-biz]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2010-01-13 17:37:26) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 37ms (View: 35, DB: 0) | 200 OK [http://localhost/cn/network-intro]
+
+
+Processing LandingController#partner (for 127.0.0.1 at 2010-01-13 17:37:27) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/partner
+Rendered landing/_links (0.9ms)
+Completed in 54ms (View: 52, DB: 0) | 200 OK [http://localhost/cn/partner-intro]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-19 19:58:33) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 192ms (View: 190, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-19 19:58:37) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2010-01-19 19:58:41) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (8.6ms)
+Completed in 44ms (View: 42, DB: 0) | 200 OK [http://localhost/cn/contacts]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-21 13:46:02) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 302ms (View: 300, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-21 13:46:04) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2010-01-21 13:46:06) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (8.7ms)
+Completed in 45ms (View: 43, DB: 0) | 200 OK [http://localhost/cn/contacts]
+
+
+Processing LandingController#network (for 127.0.0.1 at 2010-01-21 13:56:31) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/network
+Rendered landing/_links (0.8ms)
+Completed in 36ms (View: 33, DB: 0) | 200 OK [http://localhost/cn/network-intro]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-01-21 14:01:09) [GET]
+
+ActionController::RoutingError (No route matches "/forms" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-25 16:50:02) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 253ms (View: 251, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-01-25 16:50:04) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2010-01-25 16:50:05) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (10.4ms)
+Completed in 44ms (View: 42, DB: 0) | 200 OK [http://localhost/cn/contacts]
+Translating routes (default locale: en)
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-02-01 09:10:37) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 366ms (View: 364, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-02-01 09:10:41) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/cn]
+
+
+Processing LandingController#contact (for 127.0.0.1 at 2010-02-01 09:10:43) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/contact
+Rendered landing/_links (8.1ms)
+Completed in 42ms (View: 40, DB: 0) | 200 OK [http://localhost/cn/contacts]
+Translating routes (default locale: en)
+/!\ FAILSAFE /!\  Mon Feb 08 21:29:47 +0800 2010
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /opt/local/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:50:in `service'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:14:in `run'
+    /opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+/!\ FAILSAFE /!\  Mon Feb 08 21:29:48 +0800 2010
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /opt/local/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:50:in `service'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:14:in `run'
+    /opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+Translating routes (default locale: en)
+/!\ FAILSAFE /!\  Mon Feb 08 21:37:01 +0800 2010
+  Status: 500 Internal Server Error
+  no such file to load -- sqlite3
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/dependencies.rb:156:in `require'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:7:in `require_library_or_gem'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/reporting.rb:11:in `silence_warnings'
+    /Users/konglingliang/.gem/ruby/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/kernel/requires.rb:5:in `require_library_or_gem'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/sqlite3_adapter.rb:10:in `sqlite3_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `send'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:223:in `new_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:245:in `checkout_new_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:188:in `checkout'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `loop'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:184:in `checkout'
+    /opt/local/lib/ruby/1.8/monitor.rb:242:in `synchronize'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:183:in `checkout'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:98:in `connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:326:in `retrieve_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:123:in `retrieve_connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_specification.rb:115:in `connection'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+    /opt/local/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:50:in `service'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /opt/local/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /opt/local/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /opt/local/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:14:in `run'
+    /opt/local/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /opt/local/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+Translating routes (default locale: en)
+  [4;36;1mSQL (1.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-02-08 21:38:15) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 69ms (View: 66, DB: 1) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-02-08 21:39:31) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 23ms (View: 19, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-02-08 21:39:42) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-02-08 21:39:48) [GET]
+  Parameters: {"locale"=>"cn"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/cn]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing LandingController#index (for 127.0.0.1 at 2010-02-08 21:39:50) [GET]
+  Parameters: {"locale"=>"en"}
+Rendering template within layouts/application
+Rendering landing/index
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/]
