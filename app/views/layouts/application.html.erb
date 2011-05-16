@@ -9,7 +9,7 @@
 <body>
 <div id="topbar">
 <div id="TopSection">
-<h1 id="sitename"><%=link_to t('full_name'),root_path%></h1> 
+<%=image_tag("logo.jpg",:class => 'logo')%><h1 id="sitename"><%=link_to t('full_name'),root_path%></h1> 
 <div id="topbarnav"> <span class="topnavitems"> <%=link_to '中文',root_cn_path%> | <%=link_to 'English', root_en_path %></span></div> 
 <div class="clear"></div>
 <ul id="topmenu">

@@ -24,7 +24,7 @@ a:visited,active {color:#666666;}
 .searchform .keywordfield {border:solid 1px #333333; background:#F8F2DA; padding:3px;}
 #topbarnav .topnavitems {float:right; display:block;}
 #wrap #header { background:url(/images/header.jpg) no-repeat; height:229px; margin-top:10px;}
-#header .introtext {display:block; padding:60px 300px 25px 105px; text-align:right; font-weight:bold; color:#FFFFFF; font-size:24px;}
+#header .introtext {display:block; padding:60px 300px 25px 105px; text-align:right; font-weight:bold; color:#FFFFFF; font-size:24px;font-family:华文新魏 arial;}
 .highlight {background:#FFFFFF; color:#0099CC;}
 .highlight2 {color:#FFFF99; font-size:38px; font-style:italic;}
 
@@ -138,4 +138,17 @@ blockquote p {font-size:12px; }
 #contact_area{  
    background: url(/images/contact.gif) right top;
    background-repeat: no-repeat 
+}
+
+.logo{
+	float:left;
+	margin:0 10px;
+}
+
+#contact_area ul li{
+	border-bottom:none;
+	font-size:12px;
+	padding:5px 0; 
+	margin-left:0;
+	list-style:none;
 }
