@@ -22,7 +22,12 @@ cn:
   bank_holiday:  世界各银行假期
   iata: IATA
   ports: 世界各大港口
-  name: 优杰
+  name: 优杰           
+  ceo: 执行董事：吴克杰 
+  hai_imp_manager: 海运进口主管：缪佳
+  hai_export_manager: 海运出口主管：丁晶晶
+  air_manager: 空运主管：黄正冬
+  oversea_manager: 海外主管：唐文玉 
   full_name: 上海优杰国际货运代理有限公司
   contact_us: 联系我们
   tell: '诚信为本,厚德载物'
@@ -66,7 +71,7 @@ cn:
   传真:86-21-58219728<br />
   邮箱:richardwu#youthjet.com<br />
   地址:中国上海市浦东新区桃林路18号环球广场A座1109-1110室<br />                                                              
-  邮编:200135 CHINA 
+  邮编:200135 CHINA                 
   </P>  
   
   <h4>深圳</h4>
