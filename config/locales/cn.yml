@@ -24,10 +24,10 @@ cn:
   ports: 世界各大港口
   name: 优杰           
   ceo: 执行董事：吴克杰 
-  hai_imp_manager: 海运进口主管：缪佳
-  hai_export_manager: 海运出口主管：丁晶晶
-  air_manager: 空运主管：黄正冬
-  oversea_manager: 海外主管：唐文玉 
+  hai_imp_manager: 海运进口：缪佳
+  hai_export_manager: 海运出口：丁晶晶
+  air_manager: 空运部：黄正冬
+  oversea_manager: 海外部：唐文玉 
   full_name: 上海优杰国际货运代理有限公司
   contact_us: 联系我们
   tell: '优质的服务为杰出的客户'

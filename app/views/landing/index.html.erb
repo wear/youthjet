@@ -1,8 +1,13 @@
 <% content_for :header_image do %>
 <div id="header">
 <h2 class="introtext">
-<span class="highlight2"><%=t('name')%> </span><%=t('tell')%>
-</h2>
+<span class="highlight2"><%=t('name')%> </span><%=t('tell')%>  
+<% if params[:locale] == "cn"%>                                                   
+<div class="high1">诚信为本</div>   
+<div class="high2">厚德载物</div>               
+<% end %>
+</h2>     
+
 </div>
 <% end %>
 <div id="homecontents"> 
