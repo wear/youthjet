@@ -10,21 +10,21 @@ a {color:#000000;}
 a:visited,active {color:#666666;}
 .hide {display:none;}
 /*Header*/
-#topbar {background:url(/images/topbg.jpg) repeat-x; height:89px;}
+#topbar {background:url(/images/topbg.jpg) repeat-x; height:189px;}
 #topbar #TopSection {width:882px; margin:auto;}
 #sitename {display:block; height:40px; float:left; padding:3px; font:"华文新魏", Times, serif; font-size:24px;line-height:36px; font-weight:normal; color:#FFFFCC;}
 #sitename span {text-transform:lowercase; font-style:italic; color:#D1DDED; font-size:34px;}
-#sitename a, #sitename a:visited, #sitename a:active, #sitename a:hover{color:#FFFFCC; text-decoration:none;}
+#sitename a, #sitename a:visited, #sitename a:active, #sitename a:hover{color:#0000EE; text-decoration:none;line-height:130px;}
 #sitename span a, #sitename span a:visited, #sitename span a:active, #sitename span a:hover {color:#D1DDED; text-decoration:none;}
-#topbarnav { height:36px; padding-top:10px; text-align:right; color:#ffffcc;}
-#topbarnav a{color:#FFFFCC;}
-#topbarnav a:visited,active {color:#FFFFCC;}
-#topbarnav a:hover {color:#FFFFFF; text-decoration:none;}
+#topbarnav { height:136px; padding-top:10px; text-align:right; color:#ffffcc;}
+#topbarnav a{color:#0000EE;}
+#topbarnav a:visited,active {color:#0000EE;}
+#topbarnav a:hover {color:#0000EE; text-decoration:none;}
 #topbarnav .searchform { float:right; margin:0px 15px 0px 0px;}
 .searchform .keywordfield {border:solid 1px #333333; background:#F8F2DA; padding:3px;}
 #topbarnav .topnavitems {float:right; display:block;}
 #wrap #header { background:url(/images/header.jpg) no-repeat; height:229px; margin-top:10px;}
-#header .introtext {display:block; padding:60px 300px 25px 105px; text-align:right; font-weight:bold; color:#FFFFFF; font-size:24px;font-family:华文新魏 arial;}
+#header .introtext {display:block; padding:60px 200px 25px 105px; text-align:right; font-weight:bold; color:#FFFFFF; font-size:24px;font-family:华文新魏 arial;}
 .highlight {background:#FFFFFF; color:#0099CC;}
 .highlight2 {color:#FFFF99; font-size:38px; font-style:italic;}   
 .high1{       
@@ -38,7 +38,7 @@ a:visited,active {color:#666666;}
 .high2{       
   text-align:left;
   display:block;
-  padding:10px 0px 0px 340px;   
+  padding:10px 0px 0px 395px;   
   color:#FFFF99;
   font-size:28px;
 }
@@ -56,7 +56,10 @@ a:visited,active {color:#666666;}
 #contents a:hover {text-decoration:none;}
 #contents p {color:#666666; line-height:22px;}
 #contents h2 {color:#8D6932; font-weight:normal;}
-
+            
+h2 span{
+  color:#FF9933;
+}
 #left { width:570px; float:left; padding:5px 20px 5px 5px; background:url(/images/sidebarbg1.jpg) repeat-y right;}
 #left h3, #left h4, #left h5 { clear:both;color:#009999; display:block; padding:5px; margin-bottom:10px; margin-top:10px;}
 #left h3 {font-size:20px; font-family:Arial, Helvetica, sans-serif; font-weight:normal;}
@@ -159,7 +162,7 @@ blockquote p {font-size:12px; }
 
 .logo{
 	float:left;
-	margin:0 10px;
+	margin:2px 10px;
 }
 
 #contact_area ul li{
@@ -173,10 +176,10 @@ blockquote p {font-size:12px; }
 #achivment{
   position:fixed;
   right:0;
-  top:100px; 
+  top:0px; 
   text-align:right;
 }     
 
 #achivment img{
-  margin-top:50px;
+  margin-top:100px;
 }

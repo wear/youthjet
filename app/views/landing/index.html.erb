@@ -1,7 +1,6 @@
 <% content_for :header_image do %>
 <div id="header">
 <h2 class="introtext">
-<span class="highlight2"><%=t('name')%> </span><%=t('tell')%>  
 <% if params[:locale] == "cn"%>                                                   
 <div class="high1">诚信为本</div>   
 <div class="high2">厚德载物</div>               
@@ -11,7 +10,7 @@
 </div>
 <% end %>
 <div id="homecontents"> 
-<h2><a href="#"><%= t('Profile')%></a></h2>  
+<h2><a href="#"><%= t('Profile')%></a> <span><%=t('name')%>--<%=t('tell')%></span> </h2>  
 <p><%= t 'about_text' %>
 </p>
 </div>
