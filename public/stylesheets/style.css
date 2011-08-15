@@ -12,7 +12,7 @@ a:visited,active {color:#666666;}
 /*Header*/
 #topbar {background:url(/images/topbg.jpg) repeat-x; height:189px;}
 #topbar #TopSection {width:882px; margin:auto;}
-#sitename {display:block; height:40px; float:left; padding:3px; font:"华文新魏", Times, serif; font-size:24px;line-height:36px; font-weight:normal; color:#FFFFCC;}
+#sitename {display:block; height:40px; float:left; padding:3px; font:"华文新魏", Times, serif; font-size:24px;line-height:36px; font-weight:normal; color:#FFFFCC;font-size:45px;}
 #sitename span {text-transform:lowercase; font-style:italic; color:#D1DDED; font-size:34px;}
 #sitename a, #sitename a:visited, #sitename a:active, #sitename a:hover{color:#0000EE; text-decoration:none;line-height:130px;}
 #sitename span a, #sitename span a:visited, #sitename span a:active, #sitename span a:hover {color:#D1DDED; text-decoration:none;}
